@@ -72,3 +72,20 @@ webview.unityads.unity3d.com
 www.googletagservices.com
 www.gstatic.com
 
+
+mtalk.google.com
+graph.facebook.com
+play.googleapis.com
+
+fr-app-chat-global-xiaomi-net-6-2041664722.eu-central-1.elb.amazonaws.com
+android.clients.google.com
+userlocation.googleapis.com
+googleads.g.doubleclick.net
+launches.appsflyer.com
+cdp.cloud.unity3d.com
+inapps.appsflyer.com
+pagead2.googlesyndication.com
+pagead2.googleadservices.com
+outcome-ssp.supersonicads.com
+
+
