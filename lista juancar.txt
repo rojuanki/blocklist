@@ -1,3 +1,4 @@
+
 aax.amazon-adsystem.com
 ads.eu.criteo.com
 api16-access-sg.pangle.io
@@ -48,3 +49,8 @@ tpc.googlesyndication.com
 webview.unityads.unity3d.com
 www.googletagservices.com
 www.gstatic.com
+www.youtube.com
+mtalk.google.com
+userlocation.googleapis.com
+android.clients.google.com
+people-pa.googleapis.com
