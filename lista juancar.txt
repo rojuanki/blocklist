@@ -101,7 +101,8 @@ eu.noteapi.micloud.xiaomi.net
 mcc.intl.inf.miui.com
 firebaseremoteconfigrealtime.googleapis.com
 region1.app-measurement.com
-
+i18n.gamovation.com
+live-api.chessclubgame.com
 
 
 
